@@ -1,1 +1,1 @@
-this 6 abc text
+this 6 abc text this my modified file which placed in mynewbranch
